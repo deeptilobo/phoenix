@@ -1,5 +1,7 @@
+#To calculate age.
 import datetime
 
+#To get current date
 now = datetime.datetime.now()
 
 name = raw_input("enter your name : ")
